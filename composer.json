@@ -1,5 +1,5 @@
 {
-    "name": "newindianic/package_demo",
+    "name": "newindianic/lavanya",
     "autoload": {
         "psr-4": {
             "Newindianic\\PackageDemo\\": "src/"
