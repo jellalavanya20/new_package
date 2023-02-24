@@ -1,6 +1,6 @@
 <?php
 
-namespace Newindianic\PackageDemo\Nova;
+namespace Newindianic\PackageDemo\Nova\Resources;
 
 use Illuminate\Http\Request;
 use Laravel\Nova\Fields\ID;
